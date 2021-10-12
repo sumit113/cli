@@ -1,2 +1,3 @@
 1ST COMMIT
 2nd line in branch1
+3rd line to the file
